@@ -1,1 +1,1 @@
-# Example of using ECMAScript-2015 features
+#### Example of using ECMAScript-2015 features
